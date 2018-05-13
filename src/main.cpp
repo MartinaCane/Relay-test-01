@@ -42,6 +42,8 @@ void loop() {
 
 }
 
+// test comment
+
 /*
  * Funzionamento relay:
  * HIGH = RELAY LED OFF
