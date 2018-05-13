@@ -1,9 +1,13 @@
-/**
- * @Author: Davide Sordi <sordinho>
- * @Date:   Sunday, 13/05/2018, 23:02:18
- * @Last modified by:   sordinho
- * @Last modified time: Sunday, 13/05/2018, 23:44:27
+/*
+ * Filename: main.cpp
+ * File Created: Sunday, May 13th 2018, 23:02:18 
+ * ------
+ * Author: Davide Sordi
+ * GitHub: @sordinho
+ * ------
+ * Last Modified: Monday, May 14th 2018, 00:24:53 
  */
+
 
 #include "Arduino.h"
 
